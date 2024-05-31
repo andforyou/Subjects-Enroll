@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Jerrie",
+        "Email": "Jerrie.Yang@university.com",
+        "Password": "Password123",
+        "Subjects": [
+            {
+                "Subject": "Subject 4",
+                "Code": "498",
+                "Mark": 85,
+                "Grade": "HD"
+            }
+        ],
+        "Student_ID": "111473"
+    }
+]
